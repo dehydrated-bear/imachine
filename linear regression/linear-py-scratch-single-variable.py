@@ -1,7 +1,7 @@
 import pandas as pd  
 import matplotlib.pyplot as plt  
 
-data = pd.read_csv("linear regression/archive/Real estate.csv")
+data = pd.read_csv("/Users/harshit/Code/machine-ll/imachine/linear regression/archive/Real estate.csv")
 
 columns = ['X2 house age', 'X3 distance to the nearest MRT station', 'X4 number of convenience stores']
 
